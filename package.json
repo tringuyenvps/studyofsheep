@@ -1,0 +1,7 @@
+{
+  "name": "my-exam-web-v4",
+  "version": "4.0.0",
+  "private": true,
+  "description": "My Exam Web - VSAT / THPTQG with server-side login and account statistics",
+  "scripts": { "start": "node server.js" }
+}
